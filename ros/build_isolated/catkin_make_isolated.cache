@@ -1,0 +1,2 @@
+camera_info_publisher:styx:styx_msgs:tl_detector:twist_controller:waypoint_follower:waypoint_loader:waypoint_updater
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/soumya/Capstone/CarND-Capstone/ros/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/soumya/Capstone/CarND-Capstone/ros/install_isolated
